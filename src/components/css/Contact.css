@@ -1,0 +1,12 @@
+  .contact-details p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px 0;
+  }
+  
+  #contact-last p {
+    display: flex;
+    width: 150%;
+  }

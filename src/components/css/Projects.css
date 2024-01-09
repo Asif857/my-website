@@ -1,0 +1,14 @@
+li {
+  list-style-type: none;
+}
+
+#projects {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+#github{
+    padding-top: 5px;   
+}

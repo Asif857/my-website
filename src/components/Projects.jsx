@@ -1,4 +1,4 @@
-import { PROJECTS } from "./projects";
+import { PROJECTS } from "../projects";
 
 import "./css/Projects.css";
 

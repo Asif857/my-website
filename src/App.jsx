@@ -1,6 +1,6 @@
 import Navbar from "./components/Navbar";
 import { useState } from "react";
-import Hometab from "./components/HomeTab.jsx";
+import Hometab from "./components/Hometab";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import About from "./components/About";

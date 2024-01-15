@@ -29,8 +29,8 @@ export default function Projects() {
     <section id="projects">
       <div>
         <ul>
-        <li>{github}</li>
           {projects}
+          <li>{github}</li>
         </ul>
       </div>
     </section>
